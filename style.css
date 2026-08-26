@@ -730,7 +730,7 @@ nav a:hover::after {
 }
 
 .gallery-item {
-    height: 280px;
+    height: 390px;
 
     overflow: hidden;
 
@@ -942,7 +942,7 @@ footer {
     }
 
     .gallery-item {
-        height: 240px;
+        height: 330px;
     }
 
     .footer-container {
